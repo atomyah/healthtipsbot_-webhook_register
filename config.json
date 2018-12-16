@@ -1,0 +1,10 @@
+{
+  "TWITTER_CONSUMER_KEY": "EXeo4LWGE1U4waMKOuBHPsgfx",
+  "TWITTER_CONSUMER_SECRET": "TpqwI3Ze01qwnrRojzadkZ2lB8CAXFc9Ybs7inxFEqws0qx0kB",
+  "TWITTER_ACCESS_TOKEN": "989423028546097152-VlHhEhYiyU7JKSCvvtjyunwe54pejSB",
+  "TWITTER_ACCESS_TOKEN_SECRET": "VVc6pfDYgSlu3PfBIkhOSFQr8T8tFPr9ofGt93Paoi3Is",
+  "devLabel": "stage",
+  "hookId": "1073838684430954497",
+  "webhookUrl": "https://2zhy5ok1y3.execute-api.ap-northeast-1.amazonaws.com/prod/webhook",
+  "expressWatchPath":"/webhook"
+}
